@@ -1,0 +1,9 @@
+name = "gaia-v2"
+main="src/index.ts"
+compatibility_date = "2022-07-18"
+node_compat = true
+
+[[r2_buckets]]
+binding = "MY_BUCKET"
+bucket_name = "my-bucket"
+preview_bucket_name = "my-bucket"
